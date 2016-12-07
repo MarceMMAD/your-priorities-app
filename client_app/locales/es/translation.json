@@ -1,0 +1,403 @@
+{
+  "endorsementButtonsHeart":"Corazones",
+  "endorsementArrows":"Flechas",
+  "endorsementThumbs":"Pulgares",
+  "endorsementHats":"Sombreros",
+  "endorsementButtons": "Botones de Aprobación",
+  "bulkStatusUdateForInfo": "Seleccione la idea para más información",
+  "urlLink": "Link",
+  "bulkStatusUdateFor": "Actualizaciones de estado de ideas sobre",
+  "inviteNotFoundOrAlreadyUsed": "Invitación no encontrada o ya usada",
+  "reportConfirmation": "Está seguro de que desea reportar este contenido por haber roto las reglas de este sitio?",
+  "uniqueStatusMessage": "Mensaje de estado único",
+  "templateContent": "Contenido de la plantilla",
+  "bulkStatusUpdate": "Actualizaciones de estado masivo",
+  "close": "Cerrar",
+  "editTemplates": "Editar Plantillas",
+  "editTemplate": "Editar Plantilla",
+  "deleteTemplate": "Borrar Plantilla",
+  "addTemplate": "Agregar Plantilla",
+  "save": "Guardar",
+  "saved": "Guardado",
+  "config": "Config",
+  "newBulkStatusUpdate": "Nueva actualización de estado masiva",
+  "editBulkStatusUpdate": "Editar la actualización de estado masiva",
+  "bulkStatusUdateConfig": "Configuración de actualización de estado masivo",
+  "bulkStatusUpdatesTemplates": "Actualizaciones de estado en bloque",
+  "selectStatusTemplate": "Plantilla",
+  "moveToGroup": "Mover",
+  "noIdeasHere": "Aqui no hay ideas.",
+  "organizationsAdmin": "Organizaciones Administradoras",
+  "unviewed": "no vistas",
+  "notificationMarkAllViewed": "Marcar todas como Vistas",
+  "notificationConfirmMarkAllViewed": "Confirma de que desea marcar todas sus notificaciones como vistas",
+  "upVotedPoint": "Votó a favor de tu punto",
+  "downVotedPoint": "Votó en contra de tu punto",
+  "endorsedYourPost": "Respaldó tu idea",
+  "opposedYourPost": "Se opuso a tu idea",
+  "notifications": "Notificaciones",
+  "votingDisabled": "Votar no está activado",
+  "pageNotFound": "La página solicitada por la aplicación no se encuentra",
+  "participate": "Participar",
+  "emojiSearchResults": "Buscar resultados",
+  "recentlyUsedEmoji": "Recientemente usado",
+  "findAnEmoji": "Buscar emoji",
+  "cancel": "Cancelar",
+  "ok": "Ok",
+  "next": "Siguiente",
+  "create": "Crear",
+  "confirm": "Confirmar",
+  "access": "Acceso",
+  "searchFor": "Buscar ...",
+  "title": "Título",
+  "selectLanguage": "Seleccionar idioma",
+  "update": "Actualizar",
+  "errorCantConnect": "No se puede conectar con el servidor. Por favor, trate de nuevo un poco más tarde. Esto puede ser debido a un alto tráfico o por actualización de software.",
+  "errorNotFound": "No encontrado...",
+  "errorNotAuthorized": "Usted no tiene acceso!",
+  "generalError": "Se produjo un error inesperado. Ya hemos sido notificados.",
+  "stats": {
+    "posts": "Número de ideas",
+    "discussions": "Número de discusiones",
+    "communities": "Número de comunidades",
+    "groups": "Número de grupos",
+    "users": "Número de usuarios"
+  },
+  "notification": {
+    "passwordResetAndLoggedIn": "Su contraseña ha sido actualizada y usted está ahora logueado.",
+    "method": "Método",
+    "frequency": "Frecuencia",
+    "myPosts": "Mis ideas",
+    "muted": "Apagar",
+    "browser": "Navegador",
+    "email": "Email",
+    "asItHappens": "Como sucede",
+    "daily": "Diariamente",
+    "hourly": "Cada hora",
+    "weekly": "Semanalmente",
+    "monthly": "Mensualmente",
+    "myPostsEndorsements": "Ideas que me gustan",
+    "myPoints": "Mis puntos",
+    "myPointEndorsements": "Puntos que me gustan",
+    "allCommunity": "Notificaciones de mis comunidades",
+    "allGroup": "Notificaciones de mis grupos",
+    "invite_accepted_for": "Participando en"
+  },
+
+  "pages": {
+    "addLocale": "Agregar localidad",
+    "unPublish": "Anular Publicación",
+    "deletePage": "Borrar",
+    "addPage": "Agregar nueva página",
+    "managePages": "Gestionar páginas"
+  },
+
+  "archived": "Archivados",
+
+  "status": {
+    "select": "Seleccionar estado",
+    "active": "Activo",
+    "featured": "Destacado",
+    "archived": "Archivado",
+    "published": "Abierto",
+    "successful": "Exitoso",
+    "failed": "Fallado",
+    "inProgress": "En progreso"
+  },
+
+  "pluralStatus": {
+    "published": "Ideas Abiertas",
+    "successful": "Ideas Exitosas",
+    "failed": "Ideas fallidas",
+    "inProgress": "Ideas en progreso",
+    "inVoting": "Ideas en votación"
+  },
+
+  "activity": {
+    "post": {
+      "new": "Idea",
+      "status": {
+       "change": "Estado actualizado"
+      }
+    },
+    "point": {
+      "forAdded": "Punto añadido a favor",
+      "againstAdded": "Punto añadido en contra",
+      "new": "Punto",
+      "newFor": "Punto a favor",
+      "newAgainst": "Punto en contra",
+      "newComment": "Comentario",
+      "newsStory": {
+        "new": "Noticias de usuario"
+      }
+    }
+  },
+  "name": "Nombre",
+  "domain": {
+    "edit": "Editar dominio"
+  },
+
+  "domains": "Dominios",
+  "communities": "Comunidades",
+  "groups": "Grupos",
+
+  "myDomains": "Mis Dominios",
+  "myCommunities": "Mis Comunidades",
+  "myGroups": "Mis Grupos",
+  "myAdminCommunities": "Comunidades que administro",
+  "myAdminGroups": "Grupos que administro",
+
+  "community": {
+    "edit": "Editar comunidad",
+    "hostname": "Hostname",
+    "description": "Descripción",
+    "admins": "Administradores de la Comunidad",
+    "users": "Usuarios de la Comunidad",
+    "delete": "Borrar Comunidad",
+    "new": "Crear Comunidad",
+    "public": "Comunidades Públicas",
+    "closed": "Comunudades Cerradas",
+    "secret": "Comunidad Secreta",
+    "pages":"Páginas de la Comunidad",
+    "onlyAdminsCanCreateGroups": "Solo los administradores pueden crear grupos"
+  },
+
+  "posts": {
+    "posts": "Ideas",
+    "open": "Abrir",
+    "inProgress": "En progreso",
+    "successful": "Exitosa",
+    "failed": "Fallida",
+    "map": "Mapa",
+    "noMapPosts": "No hay ideas con ubicación",
+    "newUserImage": "Agregar Foto"
+  },
+
+  "form": {
+    "invalid": "Completar todo el formulario"
+  },
+
+  "post": {
+    "deleteConfirmation": "Esta seguro de que desea borrar esta idea?",
+    "move": "Mover idea",
+    "confirmMove": "Confirma de que desesa mover",
+    "statusChangeConfirmText": "Estas seguro de que desea enviar un correo a todos lo que apoyaron o no su idea?",
+    "statusChangeSelectNewStatus": "Nuevo estado",
+    "statusChangeContent": "El contenido del estado cambia para ser enviado a todos los partidarios y opositores",
+    "statusChange": "Enviar correo de cambio de estado",
+    "statusChangeSent": "Correos de cambio de estado enviados",
+    "noLocation": "Sin Ubicación",
+    "shareInfo": "Compartir idea",
+    "description": "Descripción",
+    "debate": "Debate",
+    "formInvalid": "Complete todo el formulario",
+    "status": "Estado de esta idea",
+    "new": "Nueva idea",
+    "searchingFor": "Buscando ",
+    "top": "Ideas Populares",
+    "newest": "Últimas deas",
+    "random": "Random ideas",
+    "inProgress": "Ideas en progreso",
+    "groups": "Publicar grupos",
+    "search": "Buscar ideas",
+    "add_new":"Agregar nueva idea",
+    "up_vote":"Votar a favor",
+    "down_vote":"Votar en contra",
+    "report": "Reportar idea",
+    "notify": "Notificarme acerca de esta idea",
+    "share": "Compartir esta idea",
+    "yourPost": "Idea",
+    "yourPoint": "Punto por",
+    "location": "Ubicación",
+    "photo": "Foto",
+    "photographerName": "Fotógrafo",
+    "newPhoto": "Nueva foto",
+    "photoUpdate": "Actualizar foto",
+    "photoDeleteConfirmation": "Esta seguro de que desea borrar esta foto?",
+    "tabs": {
+      "debate": "Debate",
+      "news": "Noticias",
+      "location": "Ubicaciones",
+      "photos": "Fotos",
+      "solutions": "Soluciones",
+      "not_implemented": "Aún no implementadas"
+    },
+    "cover": {
+      "media": "Elegir portada",
+      "imageInfo": "Si agregas una imagen, es más probable que las personas lo compartan.",
+      "map": "Mapa",
+      "streetview": "Vista de calles",
+      "image": "Imagen",
+      "none": "Ninguna"
+    },
+    "edit": "Editar idea",
+    "delete": "Borrar idea",
+    "addNewIntroBoxText": "Use el botón de bombilla para crear nuevas ideas"
+  },
+
+  "short_word": {
+    "in": "en"
+  },
+
+  "category": {
+    "new": "Nueva categoría",
+    "select": "Seleccionar categoría"
+  },
+
+  "categories": {
+    "all": "todas las categorías",
+    "the_all": "Todas las categorías"
+  },
+
+  "point": {
+    "report": "Reportar Punto",
+    "againstAdded": "Added point against",
+    "forAdded": "Added point for",
+    "confirmDelete": "Confirm that you want to delete this point",
+    "theseAreFor": "Point for",
+    "theseAreAgainst": "Point against",
+    "point": "Point",
+    "for": "Why do you support this...",
+    "against": "Why do you oppose this...",
+    "add_up": "Add point for",
+    "add_down": "Add point against",
+    "helpful": "Vote point up as helpful",
+    "not_helpful": "Vote point down as not helpful",
+    "addNewsStory": "Añadir una noticia",
+    "postNewsStory": "Añadir noticias",
+    "addComment": "Tu comentario...",
+    "postComment": "Publicar comentario",
+    "comments": "Comentarios",
+    "howToWrite": "Let's brainstorm the best points for and against and think in solutions...",
+    "commentToShort": "El texto es muy corto!"
+ },
+
+  "news": "Noticias",
+
+  "uploading": {
+    "inProgress": "Cargando..."
+  },
+
+  "notice": {
+    "ok": "Ok",
+    "feature_not_implemented_a": "Esta funcionalidad no ha sido aún implementada",
+    "feature_not_implemented_b": "Haznos saber tu opinión :)",
+    "welcome_a": "Esta es una versión de sólo lectura, asi que solo podrá ver los contenidos, no así crearlos. Su opinión será de gran valor.",
+    "welcome_b": "Actualmente solo funciona en Chrome pero estará disponible para la mayoría de los navegadores.",
+    "welcome_heading": "Bienvenido/a a la versión inicial de Your Priorities 6.0",
+    "continue": "Continuar a la versión inicial",
+    "deleteConfirmation": "Desea borrar este grupo?"
+  },
+
+  "maps": {
+    "searchInput": "Dirección",
+    "search": "Buscar"
+  },
+
+  "group": {
+    "locationHidden": "Deshabilitar Ubicación",
+    "group": "Grupo",
+    "admins": "Administradores del Grupo",
+    "users": "Usuarios del Grupo",
+    "new": "Agregar nuevo grupo",
+    "edit": "Editar grupo",
+    "invite": "Invitar a un amigo",
+    "invite_to_group": "Invitar a un amigo a este grupo",
+    "share_group": "Compartir este grupo",
+    "delete": "Borrar Grupo",
+    "objectives": "Objetivos",
+    "public": "Grupo Público",
+    "closed": "Grupo Cerrado",
+    "secret": "Grupo Secreto",
+    "openToCommunity": "Abierto a la comunidad",
+    "canVote": "La votación está permitida",
+    "canAddNewPosts": "Está permitido agregar nuevas ideas",
+    "config": "Configurar",
+    "update": "Actualizar Grupo"
+  },
+
+  "membership": {
+    "joined": "Te has unido",
+    "left": "Has abandonado"
+  },
+
+  "menu": {
+    "my_pages": "Mi Perfil",
+    "about": "Acerca",
+    "help": "Ayuda",
+    "settings": "Configuraciones"
+
+  },
+
+  "users": {
+    "removeAdmin": "Eliminar Administrador",
+    "addAdmin": "Agregar Administrador",
+    "removeUser": "Eliminar  Usuario",
+    "inviteUser": "Invitar Usuario",
+    "email": "email",
+    "removeFromOrganization": "Eliminar",
+    "addToOrganization": "Organización",
+    "selectOrganization": "Seleccionar Organización"
+  },
+
+  "user": {
+    "loginCompleteFor": "Iniciar Sesión",
+    "acceptInvite": "Aceptar invitaciones para participar",
+    "hasSentYouAndInvitation": "te ha enviado una invitación para participar",
+    "acceptInviteInstructions": "Selecciona el botón de abajo para aceptar la invitación",
+    "setEmail": "Agregar email a la cuenta",
+    "linkAccount": "Conectar con la cuenta",
+    "setEmailInfo": "Agregar email a la cuenta",
+    "existsLinkAccountInfo": "Ingrese su contraseña para conectar este acceso con su cuenta.",
+    "logoutCompleteFor": "Cerrar Sesión",
+    "loggedInWithSaml": "Conectado con SAML",
+    "loggedInWithFacebook": "Conectado con Facebook",
+    "facebookLogin": "Ingresar con Facebook",
+    "info":"Info",
+    "notifications": "Notificaciones",
+    "name": "Nombre",
+    "email": "Email",
+    "edit": "Editar Usuario",
+    "password": "Contraseña",
+    "forgotPassword": "Crear nueva contraseña",
+    "forgotPasswordInstructions": "Ingrese su dirección de correo y le enviaremos el enlace para crear una nueva contraseña.",
+    "forgotPasswordEmailHasBeenSent": "Se le ha enviado un correo con las instrucciones para restablecer su contraseña.",
+    "resetPassword": "Restablecer contraseña",
+    "resetPasswordInstructions": "Cree una nueva contraseña que no sea fácil de adivinar",
+    "login": "Ingresar",
+    "create": "Crear",
+    "cancel": "Cancelar",
+    "logout": "Salir",
+    "newPassword": "Nueva contraseña",
+    "register": "Nuevo Usuario",
+    "alreadyRegisterred": "Este correo ya se encuentra registrado. Usted podría crear una nueva contraseña.",
+    "registrationError": "Error en registro",
+    "loginError": "Error de inicio de sesión",
+    "completeForm": "Complete el formulario correctamente",
+    "loginNotAuthorized": "Email o contraseña incorrecta"
+  },
+
+  "other": "Otros",
+
+  "socialMedia": "Medios Sociales",
+
+  "location": {
+    "set": "Establecer Ubicación"
+  },
+  "image": {
+    "upload": "Subir imagen",
+    "logo": {
+      "upload": "Subir logo"
+    },
+    "header": {
+      "upload": "Subir cabecera"
+    },
+    "profile": {
+      "upload": "Subir imagen de perfil"
+    }
+  },
+  "theme": {
+    "choose": "Seleccione un tema"
+  }
+}
+
