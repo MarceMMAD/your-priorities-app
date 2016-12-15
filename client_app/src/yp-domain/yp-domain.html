@@ -87,12 +87,12 @@
       <paper-tabs id="paper_tabs" class="tabs" selected="{{selectedTab}}" attr-for-selected="name" focused>
         <paper-tab name="communities" class="tab"><span>[[t('communities')]]</span> &nbsp; (<span>[[communitiesLength]]</span>)</paper-tab>
         <paper-tab name="news" class="tab">[[t('news')]]</paper-tab>
-        <paper-tab name="other_social_media" class="tab">
+        <<!-- paper-tab name="other_social_media" class="tab">
           <div class="layout vertical center-center">
             <div>[[t('other')]]</div>
             <div>[[t('socialMedia')]]</div>
           </div>
-        </paper-tab>
+        </paper-tab> -->
       </paper-tabs>
 
       <iron-pages class="tabPages" selected="{{selectedTab}}" attr-for-selected="name" entry-animation="fade-in-animation" exit-animation="fade-out-animation">
@@ -110,9 +110,9 @@
         <section name="news">
           <ac-activities id="domainNews" domain-id="[[domain.id]]"></ac-activities>
         </section>
-        <section name="other_social_media" class="layout vertical">
+       <!--  <section name="other_social_media" class="layout vertical">
           <yp-other-social-media active$="[[otherSocialMediaActive]]"></yp-other-social-media>
-        </section>
+        </section> -->
       </iron-pages>
     </yp-page>
 
