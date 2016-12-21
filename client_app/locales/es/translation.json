@@ -44,14 +44,17 @@
   "findAnEmoji": "Buscar emoji",
   "cancel": "Cancelar",
   "ok": "Ok",
+  "to": "a",
   "next": "Siguiente",
   "create": "Crear",
   "confirm": "Confirmar",
   "access": "Acceso",
+  "delete": "Borrar",
   "searchFor": "Buscar ...",
   "title": "Título",
   "selectLanguage": "Seleccionar idioma",
   "update": "Actualizar",
+  "website": "Sitio Web",
   "errorCantConnect": "No se puede conectar con el servidor. Por favor, trate de nuevo un poco más tarde. Esto puede ser debido a un alto tráfico o por actualización de software.",
   "errorNotFound": "No encontrado...",
   "errorNotAuthorized": "Usted no tiene acceso!",
@@ -133,8 +136,25 @@
     }
   },
   "name": "Nombre",
+  "Name": "Nombre",
+  "description": "Descripción",
+  "Description": "Descripción",
+  "Access": "Acceso",
+  "public": "Público",
+  "closed": "Cerrado",
+  "secret": "Secreto",  
   "domain": {
-    "edit": "Editar dominio"
+    "new": "Crear Dominio",
+    "edit": "Editar dominio",
+    "info": "Información",
+    "apis": "API",
+    "settings": "Configuración",
+    "createOrganization": "Crear Organización",
+    "onlyAdminsCanCreateCommunities": "Solo los administradores pueden crear comunidades",
+    "toast": {
+      "created": "Dominio creado",
+      "updated": "Dominio actualizado"
+    }
   },
 
   "domains": "Dominios",
@@ -164,7 +184,7 @@
 
   "posts": {
     "posts": "Ideas",
-    "open": "Abrir",
+    "open": "Abiertas",
     "inProgress": "En progreso",
     "successful": "Exitosa",
     "failed": "Fallida",
@@ -183,20 +203,20 @@
     "confirmMove": "Confirma de que desesa mover",
     "statusChangeConfirmText": "Estas seguro de que desea enviar un correo a todos lo que apoyaron o no su idea?",
     "statusChangeSelectNewStatus": "Nuevo estado",
-    "statusChangeContent": "El contenido del estado cambia para ser enviado a todos los partidarios y opositores",
+    "statusChangeContent": "El cambio de estado será notificado a todos los partidarios y opositores",
     "statusChange": "Enviar correo de cambio de estado",
     "statusChangeSent": "Correos de cambio de estado enviados",
     "noLocation": "Sin Ubicación",
     "shareInfo": "Compartir idea",
     "description": "Descripción",
-    "debate": "Debate",
+    "debate": "Debatir",
     "formInvalid": "Complete todo el formulario",
     "status": "Estado de esta idea",
     "new": "Nueva idea",
     "searchingFor": "Buscando ",
     "top": "Ideas Populares",
     "newest": "Últimas deas",
-    "random": "Random ideas",
+    "random": "Ideas Aleatorias",
     "inProgress": "Ideas en progreso",
     "groups": "Publicar grupos",
     "search": "Buscar ideas",
@@ -207,7 +227,7 @@
     "notify": "Notificarme acerca de esta idea",
     "share": "Compartir esta idea",
     "yourPost": "Idea",
-    "yourPoint": "Punto por",
+    "yourPoint": "De acuerdo por",
     "location": "Ubicación",
     "photo": "Foto",
     "photographerName": "Fotógrafo",
@@ -232,7 +252,11 @@
     },
     "edit": "Editar idea",
     "delete": "Borrar idea",
-    "addNewIntroBoxText": "Use el botón de bombilla para crear nuevas ideas"
+    "addNewIntroBoxText": "Use el botón de bombilla para crear nuevas ideas",
+    "toast": {
+      "created": "Idea creada",
+      "updated": "Idea actualizada"
+    }    
   },
 
   "short_word": {
@@ -250,25 +274,25 @@
   },
 
   "point": {
-    "report": "Reportar Punto",
-    "againstAdded": "Added point against",
-    "forAdded": "Added point for",
-    "confirmDelete": "Confirm that you want to delete this point",
-    "theseAreFor": "Point for",
-    "theseAreAgainst": "Point against",
-    "point": "Point",
-    "for": "Why do you support this...",
-    "against": "Why do you oppose this...",
-    "add_up": "Add point for",
-    "add_down": "Add point against",
-    "helpful": "Vote point up as helpful",
-    "not_helpful": "Vote point down as not helpful",
+    "report": "Reportar Debate",
+    "againstAdded": "Punto en contra agregado",
+    "forAdded": "Punto a favor agregado",
+    "confirmDelete": "Confirma de que desea borrar este debate",
+    "theseAreFor": "Punto a favor",
+    "theseAreAgainst": "Punto en contra",
+    "point": "Debate",
+    "for": "Por qué apoyas esto...",
+    "against": "Por qué te opones a esto...",
+    "add_up": "Agregar punto a favor",
+    "add_down": "Agregar punto en contra",
+    "helpful": "Clasificar punto a favor como útil",
+    "not_helpful": "Clasificar punto en contra como no útil",
     "addNewsStory": "Añadir una noticia",
     "postNewsStory": "Añadir noticias",
     "addComment": "Tu comentario...",
     "postComment": "Publicar comentario",
     "comments": "Comentarios",
-    "howToWrite": "Let's brainstorm the best points for and against and think in solutions...",
+    "howToWrite": "Hagamos una lluvia de ideas sobre los mejores puntos a favor y en contra y pensemos en soluciones...",
     "commentToShort": "El texto es muy corto!"
  },
 
@@ -313,7 +337,11 @@
     "canVote": "La votación está permitida",
     "canAddNewPosts": "Está permitido agregar nuevas ideas",
     "config": "Configurar",
-    "update": "Actualizar Grupo"
+    "update": "Actualizar Grupo",
+    "toast": {
+      "created": "Grupo creado",
+      "updated": "Grupo actualizado"
+    } 
   },
 
   "membership": {
@@ -390,7 +418,7 @@
       "upload": "Subir logo"
     },
     "header": {
-      "upload": "Subir cabecera"
+      "upload": "Subir portada"
     },
     "profile": {
       "upload": "Subir imagen de perfil"
@@ -398,6 +426,14 @@
   },
   "theme": {
     "choose": "Seleccione un tema"
+  },
+
+  "organization": {
+    "new": "Nueva Organización",
+    "toast": {
+      "created": "Organización creada",
+      "updated": "Organización actualizada"
+    }
   }
 }
 
